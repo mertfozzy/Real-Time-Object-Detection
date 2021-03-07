@@ -7,17 +7,17 @@ Project Description : The aim of this project is to detect the objects in real t
 
 Tools and Frameworks :
 For this project required softwares are ;
-●	Python 3.7 (or above) as programming language
-●	Anaconda Distributions to use Python libraries
-●	Pycharm Pro and Spyder as a developing environments
-●	OpenCV Libraries to detect objects
-●	Numpy Libraries to create matrices and making calculations
-●	Github Student Developer Pack for keeping project files and tracking project versions.
+-	Python 3.7 (or above) as programming language
+-	Anaconda Distributions to use Python libraries
+-	Pycharm Pro and Spyder as a developing environments
+-	OpenCV Libraries to detect objects
+-	Numpy Libraries to create matrices and making calculations
+-	Github Student Developer Pack for keeping project files and tracking project versions.
 
 
 Required Equipment :
-●	Windows 10 or Linux based computer
-●	Webcam or Additional Camera
+-	Windows 10 or Linux based computer
+-	Webcam or Additional Camera
 
 
 Functional Requirements :
