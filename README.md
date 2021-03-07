@@ -2,6 +2,7 @@
 # Real-Time-Object-Detection
 
 Project Owner : Mert Altuntaş
+
 Project Description : The aim of this project is to detect the objects in real time with good accuracy. Objects will appear live on webcam in a squared or circled area.
 
 
