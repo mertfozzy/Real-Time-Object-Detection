@@ -1,10 +1,48 @@
 ![photo](https://github.com/mertfozzy/Real-Time-Object-Detection/blob/main/webcam%20test%202.png?raw=true)
 # Real-Time-Object-Detection
 
+---------------------------------------------------T U R K I S H------------------------------------------------------------------
+
+Proje Sahibi: Mert Altuntaş
+
+Proje Tanımı: Bu projenin amacı, nesneleri gerçek zamanlı olarak iyi bir doğrulukla tespit etmektir. Nesneler, web kamerasında canlı olarak kare veya daire içine alınmış bir alanda görünecektir.
+
+Tüm kodlar Mert Altuntaş tarafından yazılmıştır.
+
+Araçlar ve Çerçeveler:
+Bu proje için gerekli yazılımlar;
+- Programlama dili olarak Python 3.7 (veya üstü)
+- Python kütüphanelerini kullanmak için Anaconda Dağıtımları
+- Geliştirme ortamı olarak Pycharm Pro veya Spyder
+- Nesneleri algılamak için OpenCV kütüphanesi
+- Matrisler oluşturmak ve hesaplamalar yapmak için Numpy kütüphanesi
+- Proje dosyalarını saklamak ve proje sürümlerini izlemek için Github Öğrenci Geliştirici Paketi.
+
+
+Gerekli Ekipman:
+- Windows 10 veya Linux tabanlı bilgisayar
+- Web Kamerası veya Ek Kamera
+
+
+İşlevsel gereksinimler :
+- Öncelikle program bir masaüstü uygulaması olacak.
+- Program, bir web kamerasındaki nesneleri algılayacaktır. Kullanıcılar nesneleri kare veya daire içine alınmış bir alanda görebilir.
+- Program ayrıca gerçek zamanlı olarak çalışmalıdır. Tüm tespitler canlı olmalı.
+- Ayrıca program 80'e yakın farklı nesneyi algılayabilecektir. Veri setim YOLOv3'e dayalı olacaktır.
+
+
+Eklemeler:
+- Program, insan vücudunu, gözleri ve yüzleri içeren nesneleri algılayacaktır.
+- Ayrıca program yüzdeki duyguları (gülümsemek gibi) gerçek zamanlı olarak algılayabilecektir.
+- Proje bir Kullanıcı Arayüzüne sahip olabilir. (Geliştiriliyor..)
+
+-----------------------------------------------------E N G L I S H----------------------------------------------------------------
+
 Project Owner : Mert Altuntaş
 
 Project Description : The aim of this project is to detect the objects in real time with good accuracy. Objects will appear live on webcam in a squared or circled area.
 
+All the datas and codes created by Mert Altuntaş.
 
 Tools and Frameworks :
 For this project required softwares are ;
@@ -22,11 +60,13 @@ Required Equipment :
 
 
 Functional Requirements :
-1.	The program will detect objects from a webcam. Users can see the objects in a squared or circled area.
-2.	The program also should work in real time. All detections have to be live.
+- First of all, the program is a desktop application. 
+- The program will detect objects from a webcam. Users can see the objects in a squared or circled area.
+- The program also should work in real time. All detections have to be live.
+- Also, the program will be able to detect almost 80 different objects. My dataset will be based on YOLOv3.
 
 
-Additions 
-1.	The program will detect objects, that includes human bodies, eyes and faces.
-2.	Also, the program will be able to detect facial emotions (like smiling) in real time.
-3.	The Project might have a User Interface. (If the time allows.)
+Additions :
+The program will detect objects, that includes human bodies, eyes and faces.
+Also, the program will be able to detect facial emotions (like smiling) in real time.
+The Project might have a User Interface. (Under Development..)
