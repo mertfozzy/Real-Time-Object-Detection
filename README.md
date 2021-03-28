@@ -39,11 +39,11 @@ Eklemeler:
 
 Nasıl Çalışır ?
 
- 1- https://pjreddie.com/darknet/yolo/ bu adresten yolov3-416 paketini indirin.
- 2- Projemizi oluşturalım ; indirdiğimiz dosyayı ve kütüphaneleri dahil edin. (opencv-numpy)
- 3- Anaconda dağıtımından yararlanacaksak conda konsolundan kütüphane indirebilirsiniz. Pycharm üzerinde kütüphaneler kurulabilir.
- 4- Python Interpreter'inizi seçip kodu derleyin. Webcam penceresi açılacak ve deteksiyon başlayacaktır.
- 5- Bu aşamada görüntü donanıma bağlı olarak yavaş olabilir. Programdan çıkış yapmak için "q" harfine basmanız yeterlidir.
+ 1-) https://pjreddie.com/darknet/yolo/ bu adresten yolov3-416 paketini indirin.
+ 2-) Projemizi oluşturalım ; indirdiğimiz dosyayı ve kütüphaneleri dahil edin. (opencv-numpy)
+ 3-) Anaconda dağıtımından yararlanacaksak conda konsolundan kütüphane indirebilirsiniz. Pycharm üzerinde kütüphaneler kurulabilir.
+ 4-) Python Interpreter'inizi seçip kodu derleyin. Webcam penceresi açılacak ve deteksiyon başlayacaktır.
+ 5-) Bu aşamada görüntü donanıma bağlı olarak yavaş olabilir. Programdan çıkış yapmak için "q" harfine basmanız yeterlidir.
 
 
 -----------------------------------------------------E N G L I S H----------------------------------------------------------------
@@ -83,8 +83,8 @@ Additions :
 
 
 How does it work ?
- 1- Download yolov3-416 package from this address https://pjreddie.com/darknet/yolo/.
- 2- Let's create our project; Include the file and libraries we downloaded. (opencv-numpy)
- 3- If you are going to use Anaconda distribution, you can download the library from the conda console. Libraries can be installed on PyCharm.
- 4- Select your Python Interpreter and compile the code. The webcam window will open and the detection will start.
- 5- At this stage, the image may be slow depending on the hardware. To exit the program, simply press the letter "q".
+ 1-) Download yolov3-416 package from this address https://pjreddie.com/darknet/yolo/.
+ 2-) Let's create our project; Include the file and libraries we downloaded. (opencv-numpy)
+ 3-) If you are going to use Anaconda distribution, you can download the library from the conda console. Libraries can be installed on PyCharm.
+ 4-) Select your Python Interpreter and compile the code. The webcam window will open and the detection will start.
+ 5-) At this stage, the image may be slow depending on the hardware. To exit the program, simply press the letter "q".
