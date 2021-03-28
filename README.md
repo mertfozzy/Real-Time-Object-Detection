@@ -38,7 +38,7 @@ Eklemeler:
 
 
 Nasıl Çalışır ?
-- https://pjreddie.com/darknet/yolo/ bu adresten yolov3-416 paketini indirin.
+- https://pjreddie.com/darknet/yolo/ adresinden yolov3-416 paketini indirin.
 - Projemizi oluşturalım ; indirdiğimiz dosyayı ve kütüphaneleri dahil edin. (opencv-numpy)
 - Anaconda dağıtımından yararlanacaksak conda konsolundan kütüphane indirebilirsiniz. Pycharm üzerinde kütüphaneler kurulabilir.
 - Python Interpreter'inizi seçip kodu derleyin. Webcam penceresi açılacak ve deteksiyon başlayacaktır.
@@ -82,7 +82,7 @@ Additions :
 
 
 How does it work ?
-- Download yolov3-416 package from this address https://pjreddie.com/darknet/yolo/.
+- Download yolov3-416 package from this address : https://pjreddie.com/darknet/yolo/.
 - Let's create our project; Include the file and libraries we downloaded. (opencv-numpy)
 - If you are going to use Anaconda distribution, you can download the library from the conda console. Libraries can be installed on PyCharm.
 - Select your Python Interpreter and compile the code. The webcam window will open and the detection will start.
