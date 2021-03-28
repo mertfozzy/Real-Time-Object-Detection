@@ -1,8 +1,18 @@
-# -*- coding: utf-8 -*-
 """
-Created on Sat Mar 13 10:41:53 2021
+==============================================================================
 
-@author: mertf
+Student Name: Mert Altuntas | Student ID:1804010005 
+
+==============================================================================
+
+Welcome to the Real Time Object Detection Project v1 !! 
+ 
+If you want to see my progress step by step check it out my Github link!
+https://github.com/mertfozzy/Real-Time-Object-Detection
+  
+Enjoy.
+
+==============================================================================
 """
 
 import cv2
@@ -158,15 +168,5 @@ while True :
 
 cap.release()
 cv2.destroyAllWindows()
-
-
-"""
-non-maximum supression ile yüzde 30 gibi kötü değerleri yok ettik. 
-yani bu kodlar öncekine göre daha sağlam.
-
-"""
-
-
-
 
 
