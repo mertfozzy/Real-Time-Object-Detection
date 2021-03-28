@@ -1,4 +1,4 @@
-![photo](https://miro.medium.com/max/1838/1*cb1HvpKrq8YaSdmLxGJ5lA.png)
+![photo](https://github.com/mertfozzy/Real-Time-Object-Detection/blob/main/webcam%20test%202.png?raw=true)
 # Real-Time-Object-Detection
 
 Project Owner : Mert Altuntaş
