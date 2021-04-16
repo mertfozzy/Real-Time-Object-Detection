@@ -161,12 +161,11 @@ while True :
 
 #%%
 
-    cv2.imshow("Detection Window", frame)
+    cv2.imshow("Real Time Object Detection v2", frame)
 
     if cv2.waitKey(1) & 0xFF == ord("q"):
         break
 
 cap.release()
 cv2.destroyAllWindows()
-
 
