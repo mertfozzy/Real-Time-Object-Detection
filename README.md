@@ -9,7 +9,9 @@ Proje Tanımı: Bu projenin amacı, nesneleri gerçek zamanlı olarak iyi bir do
 
 Tüm kodlar Mert Altuntaş tarafından yazılmıştır.
 
-Araçlar ve Çerçeveler:
+Projenin yeni web versiyonu için : https://github.com/mertfozzy/Live-Stream-Object-Detection
+
+Yazılımlar ve Kütüphaneler:
 Bu proje için gerekli yazılımlar;
 - Programlama dili olarak Python 3.7 (veya üstü)
 - Python kütüphanelerini kullanmak için Anaconda Dağıtımları
@@ -38,7 +40,7 @@ Eklemeler:
 
 
 Nasıl Çalışır ?
-- https://pjreddie.com/darknet/yolo/ adresinden yolov3-416 paketini indirin.
+- https://pjreddie.com/darknet/yolo/ adresinden yolov3-416 paketini indirin. Kodda belirtilen adreslere bu dosyaları kaydedin.
 - Projemizi oluşturalım ; indirdiğimiz dosyayı ve kütüphaneleri dahil edin. (opencv-numpy)
 - Anaconda dağıtımından yararlanacaksak conda konsolundan kütüphane indirebilirsiniz. Pycharm üzerinde kütüphaneler kurulabilir.
 - Python Interpreter'inizi seçip kodu derleyin. Webcam penceresi açılacak ve deteksiyon başlayacaktır.
@@ -51,7 +53,9 @@ Project Owner : Mert Altuntaş
 
 Project Description : The aim of this project is to detect the objects in real time with good accuracy. Objects will appear live on webcam in a squared or circled area.
 
-All the datas and codes created by Mert Altuntaş.
+All the codes created by Mert Altuntaş.
+
+For the newest web-based version of the project : https://github.com/mertfozzy/Live-Stream-Object-Detection
 
 Tools and Frameworks :
 For this project required softwares are ;
@@ -82,7 +86,7 @@ Additions :
 
 
 How does it work ?
-- Download yolov3-416 package from this address : https://pjreddie.com/darknet/yolo/.
+- Download yolov3-416 package from this address : https://pjreddie.com/darknet/yolo/. Save these files to the addresses specified in the code.
 - Let's create our project; Include the file and libraries we downloaded. (opencv-numpy)
 - If you are going to use Anaconda distribution, you can download the library from the conda console. Libraries can be installed on PyCharm.
 - Select your Python Interpreter and compile the code. The webcam window will open and the detection will start.
