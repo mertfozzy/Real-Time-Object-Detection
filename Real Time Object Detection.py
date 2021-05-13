@@ -5,7 +5,7 @@ Student Name: Mert Altuntas | Student ID:1804010005
 
 ==============================================================================
 
-Welcome to the Real Time Object Detection Project v1 !! 
+Welcome to the Real Time Object Detection Project v2 !! 
  
 If you want to see my progress step by step check it out my Github link!
 https://github.com/mertfozzy/Real-Time-Object-Detection
